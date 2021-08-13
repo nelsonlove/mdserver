@@ -1,0 +1,5 @@
+# Test
+
+This is an index page. It is generated automatically.
+
+{{index}}

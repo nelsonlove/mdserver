@@ -1,0 +1,4 @@
+# {{error_num}}: {{error_description}}
+## Path: {{request_path}}
+
+An error was encountered in processing the request for the error file.
